@@ -12,6 +12,18 @@ const colorList = <Color>[
   Colors.pinkAccent,
 ];
 
+const colorNames = <String>[
+  'Azul',
+  'Verde azulado',
+  'Verde',
+  'Rojo',
+  'Morado',
+  'Morado Oscuro',
+  'Naranja',
+  'Rosa',
+  'Rosa acentuado',
+];
+
 
 
 class AppTheme {
